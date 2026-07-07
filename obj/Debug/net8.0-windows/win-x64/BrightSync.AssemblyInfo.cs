@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BrightSync")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("0.1.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.1.0+49cc746b555c375ac7a967eb650356254dee60c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("BrightSync")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BrightSync")]
 [assembly: System.Reflection.AssemblyVersionAttribute("0.1.0.0")]
