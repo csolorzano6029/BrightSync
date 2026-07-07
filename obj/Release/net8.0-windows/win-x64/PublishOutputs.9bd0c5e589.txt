@@ -1,0 +1,2 @@
+c:\Users\csolo\Documents\PROEYCTOSCLAUDE\BrightSync\bin\Release\net8.0-windows\win-x64\publish\BrightSync.pdb
+c:\Users\csolo\Documents\PROEYCTOSCLAUDE\BrightSync\bin\Release\net8.0-windows\win-x64\publish\BrightSync.exe

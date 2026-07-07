@@ -1,0 +1,17 @@
+c:\Users\csolo\Documents\PROEYCTOSCLAUDE\BrightSync\bin\Debug\net8.0-windows\win-x64\BrightSync.exe
+c:\Users\csolo\Documents\PROEYCTOSCLAUDE\BrightSync\bin\Debug\net8.0-windows\win-x64\BrightSync.deps.json
+c:\Users\csolo\Documents\PROEYCTOSCLAUDE\BrightSync\bin\Debug\net8.0-windows\win-x64\BrightSync.runtimeconfig.json
+c:\Users\csolo\Documents\PROEYCTOSCLAUDE\BrightSync\bin\Debug\net8.0-windows\win-x64\BrightSync.dll
+c:\Users\csolo\Documents\PROEYCTOSCLAUDE\BrightSync\bin\Debug\net8.0-windows\win-x64\BrightSync.pdb
+c:\Users\csolo\Documents\PROEYCTOSCLAUDE\BrightSync\bin\Debug\net8.0-windows\win-x64\System.Management.dll
+c:\Users\csolo\Documents\PROEYCTOSCLAUDE\BrightSync\obj\Debug\net8.0-windows\win-x64\BrightSync.csproj.AssemblyReference.cache
+c:\Users\csolo\Documents\PROEYCTOSCLAUDE\BrightSync\obj\Debug\net8.0-windows\win-x64\BrightSync.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\csolo\Documents\PROEYCTOSCLAUDE\BrightSync\obj\Debug\net8.0-windows\win-x64\BrightSync.AssemblyInfoInputs.cache
+c:\Users\csolo\Documents\PROEYCTOSCLAUDE\BrightSync\obj\Debug\net8.0-windows\win-x64\BrightSync.AssemblyInfo.cs
+c:\Users\csolo\Documents\PROEYCTOSCLAUDE\BrightSync\obj\Debug\net8.0-windows\win-x64\BrightSync.csproj.CoreCompileInputs.cache
+c:\Users\csolo\Documents\PROEYCTOSCLAUDE\BrightSync\obj\Debug\net8.0-windows\win-x64\BrightSync.csproj.Up2Date
+c:\Users\csolo\Documents\PROEYCTOSCLAUDE\BrightSync\obj\Debug\net8.0-windows\win-x64\BrightSync.dll
+c:\Users\csolo\Documents\PROEYCTOSCLAUDE\BrightSync\obj\Debug\net8.0-windows\win-x64\refint\BrightSync.dll
+c:\Users\csolo\Documents\PROEYCTOSCLAUDE\BrightSync\obj\Debug\net8.0-windows\win-x64\BrightSync.pdb
+c:\Users\csolo\Documents\PROEYCTOSCLAUDE\BrightSync\obj\Debug\net8.0-windows\win-x64\BrightSync.genruntimeconfig.cache
+c:\Users\csolo\Documents\PROEYCTOSCLAUDE\BrightSync\obj\Debug\net8.0-windows\win-x64\ref\BrightSync.dll
